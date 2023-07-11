@@ -49,15 +49,15 @@ The structure of this repository is organized as follows:
 
 ```
 .
-├── exercise-1
-│   ├── program1.c
-│   ├── program2.c
+├── exercise_name-1
+│   ├── programname1.c
+│   ├── programname2.c
 │   └── ...
-├── exercise-2
-│   ├── program1.c
-│   ├── program2.c
+├── exercise_name-2
+│   ├── programname1.c
+│   ├── programname2.c
 │   └── ...
-├── project-1
+├── project_name-1
 │   ├── source.c
 │   ├── header.h
 │   ├── makefile
@@ -65,8 +65,8 @@ The structure of this repository is organized as follows:
 └── ...
 ```
 
-- Each exercise is contained within a separate directory, named `exercise-n`, where `n` represents the exercise number.
-- Each project is contained within a separate directory, named `project-n`, where `n` represents the project number.
+- Each exercise is contained within a separate directory, named `exercise_name-n`, where `n` represents the exercise number.
+- Each project is contained within a separate directory, named `projectname-n`, where `n` represents the project number.
 - Each program or source file is named according to its purpose or functionality within the exercise or project.
 
 ## Contributing
