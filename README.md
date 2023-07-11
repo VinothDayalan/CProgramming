@@ -75,4 +75,4 @@ I am currently using this repository for my personal practice and learning. Ther
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code in this repository for personal or educational purposes.
+Feel free to use the code in this repository for personal or educational purposes.
